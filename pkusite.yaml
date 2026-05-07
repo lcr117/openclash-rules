@@ -1,9 +1,9 @@
 payload:
   - '+.wiley.com'
-  - '+sciencedirect'
-  - '+clarivate'
+  - '+.sciencedirect.com'
+  - '+.clarivate.com'
   - '+.webofknowledge.com'
-  - '+webofscience'
+  - '+.webofscience.com'
   - '+.els-cdn.com'
   - '+.elsevier.com'
   - '+.elseviercdn.cn'
