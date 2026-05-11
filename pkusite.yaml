@@ -1,9 +1,5 @@
 payload:
 
-  # GPT
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com
-
   # 国内直连
   - DOMAIN-KEYWORD,quickconnect
   - DOMAIN-KEYWORD,synology
