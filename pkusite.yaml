@@ -28,3 +28,6 @@ payload:
   - DOMAIN,aipower.cnki.net
   - DOMAIN,aiplus.cnki.net
   - DOMAIN,g.cnki.net
+
+  - DOMAIN-SUFFIX,wanfangdata.com.cn
+  - DOMAIN-SUFFIX,wf.pub
