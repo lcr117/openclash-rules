@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,pku.edu.cn
 
+  - DOMAIN-SUFFIX,ieee.org
+  
   - DOMAIN,onlinelibrary.wiley.com
   - DOMAIN,scijournals.onlinelibrary.wiley.com
 
