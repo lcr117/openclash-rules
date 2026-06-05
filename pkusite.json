@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "zhihuiya.com",
+        "researchgate.net",
+        "pku.edu.cn",
+        "ieee.org"
+      ],
+      "domain": [
+        "onlinelibrary.wiley.com",
+        "scijournals.onlinelibrary.wiley.com",
+        "webofscience.clarivate.cn",
+        "access.clarivate.com",
+        "www.webofscience.com",
+        "www.webofknowledge.com",
+        "www.sciencedirect.com",
+        "link.springer.com",
+        "idp.springer.com",
+        "pubs.acs.org",
+        "www.cnki.net",
+        "kns.cnki.net",
+        "docdown.cnki.net",
+        "t.cnki.net",
+        "login.cnki.net",
+        "bar.cnki.net",
+        "ai.cnki.net",
+        "aipower.cnki.net",
+        "aiplus.cnki.net",
+        "g.cnki.net"
+      ]
+    }
+  ]
+}
