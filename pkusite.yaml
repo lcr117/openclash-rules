@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD, wanfangdata
   - DOMAIN-SUFFIX,zhihuiya.com
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,pku.edu.cn
