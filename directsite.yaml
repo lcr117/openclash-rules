@@ -4,6 +4,9 @@ payload:
   - DOMAIN-KEYWORD,sinopec
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN,access.shandiancn.com
+  
+  - DOMAIN-SUFFIX,researchgate.net
+  - DOMAIN-SUFFIX,rgstatic.net
 
   - DOMAIN,wiley.scienceconnect.io
   - DOMAIN,nim.onlinelibrary.wiley.com
