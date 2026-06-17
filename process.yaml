@@ -5,3 +5,6 @@ payload:
   - PROCESS-NAME,Codex
   - PROCESS-NAME,codex.exe
   - PROCESS-NAME,Codex.exe
+  
+  - DOMAIN-SUFFIX,researchgate.net
+  - DOMAIN-SUFFIX,rgstatic.net
