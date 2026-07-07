@@ -8,7 +8,9 @@ payload:
   
   - DOMAIN,onlinelibrary.wiley.com
   - DOMAIN,scijournals.onlinelibrary.wiley.com
-
+  
+  - DOMAIN,geoscienceworld.org
+  
   - DOMAIN,webofscience.clarivate.cn
   - DOMAIN,access.clarivate.com
   - DOMAIN,www.webofscience.com
