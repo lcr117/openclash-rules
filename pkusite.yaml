@@ -16,8 +16,7 @@ payload:
 
   - DOMAIN,www.sciencedirect.com
 
-  - DOMAIN,link.springer.com
-  - DOMAIN,idp.springer.com
+  - DOMAIN,springer.com
 
   - DOMAIN,pubs.acs.org
 
