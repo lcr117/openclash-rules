@@ -10,6 +10,7 @@ payload:
   - DOMAIN,www.webofknowledge.com
   - DOMAIN,www.sciencedirect.com
   - DOMAIN,springer.com
+  - DOMAIN-SUFFIX,elsevier.com
 
   - DOMAIN,pubs.acs.org
   - DOMAIN,wiley.scienceconnect.io
