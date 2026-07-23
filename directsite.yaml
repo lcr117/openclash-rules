@@ -1,10 +1,17 @@
 payload:
-  - DOMAIN-KEYWORD,quickconnect
-  - DOMAIN-KEYWORD,synology
-  - DOMAIN-KEYWORD,sinopec
-  - DOMAIN-KEYWORD,aliyun
-  - DOMAIN,access.shandiancn.com
 
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN,onlinelibrary.wiley.com
+  - DOMAIN,scijournals.onlinelibrary.wiley.com
+  - DOMAIN-SUFFIX,geoscienceworld.org
+  - DOMAIN,webofscience.clarivate.cn
+  - DOMAIN,access.clarivate.com
+  - DOMAIN,www.webofscience.com
+  - DOMAIN,www.webofknowledge.com
+  - DOMAIN,www.sciencedirect.com
+  - DOMAIN,springer.com
+
+  - DOMAIN,pubs.acs.org
   - DOMAIN,wiley.scienceconnect.io
   - DOMAIN,nim.onlinelibrary.wiley.com
   - DOMAIN,sdata.wiley.com
